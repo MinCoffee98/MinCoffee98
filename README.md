@@ -7,7 +7,7 @@
 ### Objetivos
 
 - Ingressar numa boa faculdade de Análise e Desenvolvimento de Sistemas.
-- Virar Desenvolvedora Front-End.
+- Ser uma Desenvolvedora Front-End.
 
 ### Formação
 
