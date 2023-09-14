@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF7F5&width=435&lines=Oii+Galera!!+Sou+a+Isabela+ou+Isa+♥+♥%E2%99%A5+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF7F5&width=435&lines=Oii+Galera!!Eu+Sou+a+Isabela+♥%E2%99%A5+)](https://git.io/typing-svg)
 
 
 
