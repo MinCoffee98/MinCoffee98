@@ -49,7 +49,6 @@
 
 ### Estudando:
 
-![React](https://img.shields.io/badge/React-0D1117?logo=react&logoColor=61DAFB&style=for-the-badge)
-![React Native](https://img.shields.io/badge/React_Native-0D1117?logo=react&logoColor=61DAFB&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&labelColor=0D1117&style=for-the-badge)
 
 
