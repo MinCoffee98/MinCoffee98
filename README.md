@@ -52,4 +52,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&labelColor=0D1117&style=for-the-badge)
 
 
-![Snake animation](https://github.com/{{your_MinCoffee98}}/{{your_MinCoffee98}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{MinCoffee98}}/{{MinCoffee98}}/blob/output/github-contribution-grid-snake.svg)
