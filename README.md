@@ -23,6 +23,10 @@
 - Ingles Intermediário
 - Espanhol Básico
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/isaaviih98?si=c9a3cf55d2b746c6)
+
 
 ### Contato
 
@@ -52,4 +56,4 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&labelColor=0D1117&style=for-the-badge)
 
 
-![Snake animation](https://github.com/{{MinCoffee98}}/{{MinCoffee98}}/blob/output/github-contribution-grid-snake.svg)
+
