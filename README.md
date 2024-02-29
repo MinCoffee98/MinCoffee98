@@ -1,8 +1,18 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF7F5&width=435&lines=Oii+Galera!!Eu+Sou+a+Isabela+♥%E2%99%A5+)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MinCoffee98&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Isabela Vitória github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinCoffee98&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MinCoffee98&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MinCoffee98&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p> 
+  
 ### Objetivos
 
 - Ingressar numa boa faculdade de Análise e Desenvolvimento de Sistemas.
@@ -54,11 +64,11 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&labelColor=0D1117&style=for-the-badge)
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MinCoffee98}/count.svg" /></p> 
+<br></div>
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MinCoffee98&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinCoffee98&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
