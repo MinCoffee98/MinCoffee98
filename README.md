@@ -50,6 +50,9 @@
 ![Java](https://img.shields.io/badge/Java-0D1117?logo=openjdk&logoColor=ED8B00&style=for-the-badge)
 
 
+![snake gif](https://github.com/MinCoffee98/MinCoffe98/blob/output/github-contribution-grid-snake.svg)
+
+
 ![snake gif](https://github.com/MinCoffee98/MinCoffee98/blob/output/github-contribution-grid-snake.svg)
 ![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?logo=mysql&logoColor=white&labelColor=0D1117&style=for-the-badge)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?logo=git&logoColor=E44C30&labelColor=0D1117&style=for-the-badge)
