@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF7F5&width=435&lines=Oii+Galera!!Eu+Sou+a+Isabela+♥%E2%99%A5+)](https://git.io/typing-svg)
 
 
-
 ### Objetivos
 
 - Ingressar numa boa faculdade de Análise e Desenvolvimento de Sistemas.
@@ -56,7 +55,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&labelColor=0D1117&style=for-the-badge)
 
 
-
-
-
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MinCoffee98&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinCoffee98&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
