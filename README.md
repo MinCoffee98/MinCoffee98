@@ -57,6 +57,6 @@
 
 
 
-![snake gif](https://github.com/MinCoffee98/MinCoffe98/blob/output/github-contribution-grid-snake.svg)
+
 
 
