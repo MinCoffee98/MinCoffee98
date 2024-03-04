@@ -32,7 +32,7 @@
 - Ingles Intermediário
 - Espanhol Básico
 
-### Spotify Playing 🎧
+### Spotify  🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/isaaviih98?si=c9a3cf55d2b746c6)
 
