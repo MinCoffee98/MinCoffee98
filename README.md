@@ -36,7 +36,7 @@
 
 ### Contato
 
-<a href="https://instagram.com/cafeinapura98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" target="_blank"></a>
+<a href="https://instagram.com/b_vitoria98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" target="_blank"></a>
 <a href = "mailto:isabelavr58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117" target="_blank"></a>
 <a href="https://www.linkedin.com/in/isabelaautaof/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117" target="_blank"></a>
 
