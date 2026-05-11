@@ -13,17 +13,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MinCoffee98&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> 
   
-### Objetivos
-
-- Ingressar numa boa faculdade de Análise e Desenvolvimento de Sistemas.
-- Ser uma boa Desenvolvedora Front-End.
 
 ### Formação
 
 - Ensino Médio Completo
 - Formada no Curso de Administração na ETEC
 - Formada no Curso de Desenvolvimento de Sitemas na ETEC
-
+- Cursando Analise e Desenvolvimento de Sistemas - Unifatecie
+- 
 ### Cursos
 
 - Informática
