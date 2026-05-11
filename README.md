@@ -20,7 +20,7 @@
 - Formada no Curso de Administração na ETEC
 - Formada no Curso de Desenvolvimento de Sitemas na ETEC
 - Cursando Analise e Desenvolvimento de Sistemas - Unifatecie
-- 
+ 
 ### Cursos
 
 - Informática
