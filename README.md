@@ -1,71 +1,232 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CF7F5&width=435&lines=Oii+Galera!!Eu+Sou+a+Isabela+♥%E2%99%A5+)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFBF,50:7B2CBF,100:FF4D8D&height=180&section=header&text=Isabela%20Vit%C3%B3ria&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Suporte%20de%20TI%20%7C%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=17" alt="Cabeçalho Isabela Vitória" />
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MinCoffee98&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Isabela Vitória github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinCoffee98&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2CF7F5&center=true&vCenter=true&random=false&width=650&lines=Ol%C3%A1%2C+eu+sou+a+Isabela+Vit%C3%B3ria+%F0%9F%91%8B;T%C3%A9cnica+de+Inform%C3%A1tica+%F0%9F%92%BB;Apaixonada+por+tecnologia+e+aprendizado+%F0%9F%9A%80;Bem-vindo(a)+ao+meu+GitHub!+%E2%9C%A8" alt="Texto animado de apresentação" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MinCoffee98&label=Visitas%20ao%20perfil&color=00bfbf&style=for-the-badge" alt="Contador de visitas" />
+<img src="https://img.shields.io/github/followers/MinCoffee98?label=Seguidores&style=for-the-badge&color=7b2cbf&labelColor=0d1117" alt="Seguidores no GitHub" />
+
+🧭 Explore meu perfil
+
+
+
+
+
+
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MinCoffee98&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+👩‍💻 Sobre mim
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinCoffee98&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> 
-  
+Sou Isabela Vitória, técnica de informática e estudante de Análise e Desenvolvimento de Sistemas. Trabalho com suporte técnico de TI, manutenção de computadores, redes, sistemas Windows e ferramentas corporativas. Gosto de transformar problemas em soluções e estou sempre buscando aprender algo novo.
 
-### Formação
+🔧 Atuação com suporte técnico, hardware, redes e Windows
 
-- Ensino Médio Completo
-- Formada no Curso de Administração na ETEC
-- Formada no Curso de Desenvolvimento de Sitemas na ETEC
-- Cursando Analise e Desenvolvimento de Sistemas - Unifatecie
- 
-### Cursos
+🎓 Cursando Análise e Desenvolvimento de Sistemas
 
-- Informática
-- Hardware
-- Redes e Computadores 
-- Ingles Intermediário
-- Espanhol Básico
+🌱 Atualmente aprimorando meus conhecimentos em JavaScript
 
-### Spotify  🎧
+💡 Interesses: tecnologia, desenvolvimento web e infraestrutura
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/isaaviih98?si=c9a3cf55d2b746c6)
+🎮 Nas horas vagas, gosto de jogos e música
 
+const isabela = {
+  profissão: "Técnica de Informática",
+  graduação: "Análise e Desenvolvimento de Sistemas",
+  focoAtual: "JavaScript",
+  habilidades: ["Suporte de TI", "Hardware", "Redes", "Windows"],
+  lema: "Aprender, resolver e evoluir! 🚀"
+};
 
-### Contato
+<details>
+<summary><strong>✨ Clique aqui para descobrir algumas curiosidades</strong></summary>
+<br>
 
-<a href="https://instagram.com/b_vitoria98" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0D1117" target="_blank"></a>
-<a href = "mailto:isabelavr58@gmail.com"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0D1117" target="_blank"></a>
-<a href="https://www.linkedin.com/in/isabelaautaof/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0D1117" target="_blank"></a>
+☕ Tecnologia e café formam uma ótima dupla
 
-### Ferramentas:
+🎮 Gosto de jogar nas horas vagas
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/Android_Studio-0D1117?style=for-the-badge&logo=android-studio&logoColor=3DDC84&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-0D1117?logo=figma&logoColor=white&style=for-the-badge)
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&logoColor=D83B01&labelColor=0D1117)&nbsp;
+🎧 Música faz parte da minha rotina de estudos e trabalho
 
-### Skills:
+🧩 Adoro investigar problemas e encontrar soluções
 
-![HTML5](https://img.shields.io/badge/html5-0D1117.svg?logo=html5&logoColor=E34F26&labelColor=0D1117&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/css3-0D1117.svg?logo=css3&logoColor=1572B6&labelColor=0D1117&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&labelColor=0D1117&style=for-the-badge)
-![PHP](https://img.shields.io/badge/php-0D1117.svg?logo=php&logoColor=777BB4&labelColor=0D1117&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-0D1117?logo=openjdk&logoColor=ED8B00&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/mysql-0D1117.svg?logo=mysql&logoColor=white&labelColor=0D1117&style=for-the-badge)
-![Git](https://img.shields.io/badge/git-0D1117.svg?logo=git&logoColor=E44C30&labelColor=0D1117&style=for-the-badge)
+🚀 Acredito que sempre existe algo novo para aprender
 
-### Estudando:
+</details>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=F7DF1E&labelColor=0D1117&style=for-the-badge)
+<details>
+<summary><strong>🎓 Minha formação</strong></summary>
+<br>
+
+Ensino Médio completo
+
+Técnica em Administração — ETEC
+
+Técnica em Desenvolvimento de Sistemas — ETEC
+
+Cursando Análise e Desenvolvimento de Sistemas — Unifatecie
+
+</details>
+
+🎯 Minha jornada
+
+<details open>
+<summary><strong>✅ Etapas concluídas e próximos objetivos</strong></summary>
+<br>
+
+Formação técnica em Administração
+
+Formação técnica em Desenvolvimento de Sistemas
+
+Experiência com suporte técnico de TI
+
+Conhecimentos em hardware e redes
+
+Concluir Análise e Desenvolvimento de Sistemas
+
+Aprofundar meus conhecimentos em JavaScript
+
+Criar e publicar novos projetos no GitHub
+
+</details>
+
+<details>
+<summary><strong>📚 Cursos e conhecimentos complementares</strong></summary>
+<br>
+
+Informática
+
+Hardware
+
+Redes de Computadores
+
+Inglês intermediário
+
+Espanhol básico
+
+</details>
+
+🚀 Tecnologias e habilidades
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MinCoffee98}/count.svg" /></p> 
-<br></div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
+
+
+
+
+
+
+
+</div>
+
+🛠️ Ferramentas
+
+<div align="center">
+
+
+
+
+
+
+</div>
+
+📖 Estudando atualmente
+
+<div align="center">
+
+
+
+
+</div>
+
+📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinCoffee98&show_icons=true&count_private=true&hide_border=true&title_color=2CF7F5&icon_color=FF4D8D&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinCoffee98&layout=compact&hide_border=true&title_color=2CF7F5&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="Linguagens mais usadas" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=MinCoffee98&theme=transparent&hide_border=true&locale=pt_BR&ring=2CF7F5&fire=FF4D8D&currStreakLabel=2CF7F5&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sequência de contribuições" />
+
+</div>
+
+<details>
+<summary><strong>📌 Clique para ver um resumo detalhado do perfil</strong></summary>
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinCoffee98&theme=tokyonight" alt="Resumo detalhado do perfil" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinCoffee98&theme=tokyonight" alt="Repositórios por linguagem" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinCoffee98&theme=tokyonight&utcOffset=-3" alt="Horários produtivos" />
+
+</div>
+</details>
+
+📈 Atividade
+
+<div align="center">
+
+
+
+</div>
+
+<details>
+<summary><strong>🏆 Ver troféus do GitHub</strong></summary>
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MinCoffee98&theme=dracula&no-bg=true&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+
+</div>
+</details>
+
+🎧 Spotify
+
+<div align="center">
+
+Um pouco da trilha sonora que acompanha meus códigos
+
+
+
+</div>
+
+📫 Vamos nos conectar?
+
+<div align="center">
+
+
+
+
+
+🔎 Veja também
+
+
+
+
+<br>
+
+💬 Estou sempre aberta a trocar experiências, aprender e conhecer novas oportunidades!
+
+<details>
+<summary><strong>💌 Quer falar comigo?</strong></summary>
+<br>
+
+Clique em um dos botões acima ou envie um e-mail para isabelavr58@gmail.com. Responderei assim que possível! 😊
+
+</details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFBF,50:7B2CBF,100:FF4D8D&height=120&section=footer" alt="Rodapé colorido" />
+
+</div>
